@@ -62,6 +62,3 @@ public class Libro {
         this.CopiasDisponibles = CopiasDisponibles;
         }
     }
-
-public class Libro {
-}
