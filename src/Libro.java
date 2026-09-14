@@ -15,8 +15,8 @@ public class Libro {
         this.autor = autor;
         this.codigo = codigo;
         this.genero = genero;
-        this.AnioDePublicacion = AnioDePublicacion;
-        this.CopiasDisponibles = CopiasDisponibles;
+        this.AnioDePublicacion = anioDePublicacion;
+        this.CopiasDisponibles = copiasDisponibles;
     }
 
         //Getters y Setters
