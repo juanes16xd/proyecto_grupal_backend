@@ -1,0 +1,21 @@
+# Archivos compilados de Java
+*.class
+
+# Carpetas de compilación
+/bin/
+/target/
+/out/
+
+# Configuración de IntelliJ IDEA
+.idea/
+*.iml
+
+# Configuración de Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
